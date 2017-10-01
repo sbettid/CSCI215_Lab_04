@@ -1,7 +1,7 @@
 // -----------------------------------
 // Global Variables Go Here
 var I = [];
-I[0] = '\'http://munsellb.people.cofc.edu/img/pound.jpeg\'';
+I[0] = 'http://munsellb.people.cofc.edu/img/pound.jpeg';
 I[1] = 'http://munsellb.people.cofc.edu/img/euro.jpeg';
 I[2] = 'http://munsellb.people.cofc.edu/img/kroon.jpeg';
 I[3] = 'http://munsellb.people.cofc.edu/img/canadian.jpeg';
